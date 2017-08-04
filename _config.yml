@@ -11,7 +11,7 @@ title                    : "KBS"
 title_separator          : "-"
 name                     : "Kutay B. Sezginel"
 description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://kbsezginel.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Kutay B. Sezginel"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "https://avatars1.githubusercontent.com/u/14298193?v=4&s=460"
   bio              : "PhD Candidate, Chemical Engineering, University of Pittsburgh."
   location         : "Pittsburgh, PA"
   email            : "kutaybs@gmail.com"
@@ -89,7 +89,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : https://github.com/kbsezginel
+  github           : "https://github.com/kbsezginel"
   gitlab           :
   google_plus      :
   keybase          :
@@ -97,7 +97,7 @@ author:
   lastfm           :
   linkedin         :
   pinterest        :
-  soundcloud       : https://soundcloud.com/kbs_music
+  soundcloud       : "https://soundcloud.com/kbs_music"
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
