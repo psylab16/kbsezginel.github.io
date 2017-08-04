@@ -2,6 +2,12 @@
 main:
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Research"
+    url: /research/
+  - title: "Raspberry PI"
+    url: /raspberry-pi/
+  - title: "Music"
+    url: /music/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
