@@ -1,3 +1,10 @@
+---
+layout: pages
+title:  "Music"
+permalink: /music/
+date:   2017-08-04
+categories: pages
+---
 # Music
 I like music, a lot.
 
