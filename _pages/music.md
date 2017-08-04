@@ -1,5 +1,5 @@
 ---
-layout: pages
+layout: single
 title:  "Music"
 permalink: /music/
 date:   2017-08-04

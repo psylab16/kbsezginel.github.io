@@ -1,3 +1,10 @@
+---
+layout: single
+title:  "Research"
+permalink: /research/
+date:   2017-08-04
+categories: pages
+---
 # Research
 I do research, sort of. I mean I think I do but sometimes when I see people doing really cool
 and complicated stuff I fell kinda lost. I do like making cool figures though.
