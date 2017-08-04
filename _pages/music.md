@@ -5,7 +5,6 @@ permalink: /music/
 date:   2017-08-04
 categories: pages
 ---
-# Music
 I like music, a lot.
 
 I have a [soundcloud account](https://soundcloud.com/kbs_music) where I upload stuff.
