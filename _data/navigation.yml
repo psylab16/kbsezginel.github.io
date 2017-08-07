@@ -6,6 +6,5 @@ main:
     url: /raspberry-pi/
   - title: "Music"
     url: /music/
-  - title: "DMOG"
-    url: /irmof1_dmog/
-
+  - title: "Plot"
+    url: /plot/
