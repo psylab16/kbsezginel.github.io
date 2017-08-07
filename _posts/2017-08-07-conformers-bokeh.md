@@ -22,6 +22,9 @@ python conformer_search.py DMOG.mol2 100
 ```
 which will read `DMOG.mol2` and generate 100 `.mol` files.
 
+Here is a picture of 50 conformers rendered using [Moleidoscope](https://github.com/kbsezginel/Moleidoscope) library:
+![DMOG-conformers](https://goo.gl/FyDE9a)
+
 ### Step 3: Run RASPA simulations
 [RASPA](https://github.com/WilmerLab/raspa2) is a general purpose classical simulation package that can be used for the simulation of molecules in gases, fluids, zeolites, aluminosilicates, metal-organic frameworks, carbon nanotubes and external fields. The command line interface also generates RASPA simulation input files by using following optional arguments:
 
@@ -46,7 +49,9 @@ Running the SOAP analysis we can generate a similarity matrix that looks like th
 Here each conformer is compared with all the others and assigned a normalized similarity score between 0 - 1. The 2D histogram above is colored from white to red according to this similarity score. In each x an y axis the conformers are ordered from 1 - 100.
 
 ### Step 4: Read RASPA output
-The RASPA simulation results can be read and combined with RMSD and conformer scores obtained from `conformer_search.py` to generate plots.
+The RASPA simulation results can be read and combined with RMSD and conformer scores obtained from `conformer_search.py` to generate plots. Here is a bar plot showing adorption results for IRMOF-1.
+
+![IRMOF-1-DMOG](https://goo.gl/UNV5WG)
 
 ### Step 5: Render molecule images
 To visualize each molecule we need to render them automatically. [OpenBabel](http://openbabel.org/wiki/Main_Page) can render 2D representations of molecules. For this project I used the following command:
@@ -58,7 +63,7 @@ Other types of renders can be achieved as well. See [Open Babel documentation](h
 ### Step 6: Plot with bokeh
 For the Interactive plot I used [Bokeh](http://bokeh.pydata.org/en/latest/) Python library. The code is available below.
 
-[See the final plot here!](https://kbsezginel.github.io/dmogconf/)
+[See the final plot here!](https://kbsezginel.github.io/irmof1dmog/)
 
 
 ### The code
