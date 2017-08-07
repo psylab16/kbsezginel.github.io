@@ -1,3 +1,10 @@
+---
+layout: single
+title:  "Plot"
+permalink: /plot/
+date:   2017-08-07
+categories: pages
+---
 Here is a bokeh plot:
 
 <meta charset="utf-8">
