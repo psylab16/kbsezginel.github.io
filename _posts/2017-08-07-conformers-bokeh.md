@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Calculating and analyzing drug adsorption in MOFs interactively"
 date:   2017-08-07
 categories: posts
@@ -20,6 +20,14 @@ Read RASPA output
 
 Step 5:
 Render molecule images
+
+Using openbabel:
+```
+for i in `ls`
+do
+obabel $i -O images/$i.svg -xS -xd -xb none
+done
+```
 
 Step 6:
 Plot with bokeh
