@@ -1,0 +1,113 @@
+		body, p, th, td, h1, h2, .search {
+			font-family: Arial, Helvetica, sans-serif;
+			font-size: 12px;
+		}
+		
+		body  {
+			font-size: 12px;
+			color: #333333;
+			background-color: #BEBEBE;
+			font-weight: normal;
+			margin-top : 10px;
+			margin-Left : 10px;
+			margin-Right : 10px;
+			text-align: center;
+		}
+
+		a:link {
+			text-decoration : underline;
+			color : #336699;
+		}
+		a:visited {
+			text-decoration : underline;
+			color : #003366;
+		}
+		a:active {
+			text-decoration : underline;
+			color : #003366;
+		}
+		a:hover {
+			text-decoration : none;
+			color : #336699;
+		}
+
+		#title_main {
+			padding : 8px 8px 8px 8px;
+   font-size: 24px;
+			font-weight: bold;
+		}
+		#title_sub {
+			padding : 2px 2px 2px 2px;
+   font-size: 16px;
+   border-bottom : 1 solid #999999;
+   padding-bottom : 8px;
+		}
+		#address {
+			padding : 2px 2px 2px 2px;
+   font-size: 11px;
+		}
+
+.address_link A:link {text-decoration: none}
+.address_link A:visited {text-decoration: none}
+.address_link A:active {text-decoration: none}
+.address_link A:hover {text-decoration: underline}
+	
+		#main {
+			margin-top: 12px;
+			padding : 8px 4px 16px 4px;
+   font-size: 14px;
+   background: #FFFFFF;
+			border: #CCCCCC solid 1px;
+		}
+		#mainblock {
+			padding : 16px 16px 16px 16px;
+			text-align : left;
+			text-size : 10;
+		}
+		#nav  {
+			margin-top : 8px;
+			margin-left : 44px;
+			margin-right : 44px;
+			padding : 8px 8px 8px 8px;
+			font-size: 14px;
+			font-weight: normal;
+			background: #DDDDDD;
+			border: #999999 solid 1px;
+			text-align: center;
+		}
+		.navitem {
+			margin-left : 4px;
+			margin-right : 4px;
+		}
+		#selected {
+			border-top : 2 solid #999999;
+		}
+		#foot {
+			margin-top : 8px;
+			text-align: center;
+		}
+		#outer {
+			width: 788px;
+			padding : 12px 12px 12px 12px;
+			background: #EEEEEE;
+			margin: 0px auto;
+			border: #777777 solid 1px;
+		}
+		#contentitem {
+			width: 788px;
+			padding : 12px 12px 12px 12px;
+			background: #EEEEEE;
+			margin: 0px auto;
+		}
+  span.imageleft { 
+  float: left; 
+  padding-left:15px; 
+  padding-bottom:5px; 
+  padding-right:15px; 
+  padding-top:15px; 
+  font-style:italic; 
+  text-align:center; 
+  } 
+  span.imageright img { 
+  display: block; 
+  }

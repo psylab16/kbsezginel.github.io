@@ -14,7 +14,7 @@ description              : "Psychoacoustic Lab - University of Pittsburgh"
 url                      : "https://psylab16.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "psylab16/psylab16.github.io"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "/assets/img/teaser.svg"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Christopher Brown"
   avatar           : "http://www.shrs.pitt.edu/sites/default/files/person-images/0026_01.jpg"
-  bio              : "PhD, Assistant Professor, School of Health and Rehabilitation Sciences, University of Pittsburgh."
+  bio              : "PhD, Assistant Professor, Department of Communication Science and Disorders, University of Pittsburgh."
   location         : "Pittsburgh, PA"
   email            : "cbrown1@pitt.edu"
   uri              :

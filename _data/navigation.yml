@@ -2,7 +2,9 @@
 main:
   - title: "Research"
     url: /research/
-  - title: "Raspberry PI"
-    url: /raspberry-pi/
-  - title: "Music"
-    url: /music/
+  - title: "People"
+    url: /people/
+  - title: "Listening Room"
+    url: /listening-room/
+  - title: "CV"
+    url: "http://www.shrs.pitt.edu/sites/default/files/Brown_CV.pdf"
