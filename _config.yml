@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "KBS"
+title                    : "PSYLAB"
 title_separator          : "-"
-name                     : "Kutay B. Sezginel"
-description              : "An amazing website."
-url                      : "https://kbsezginel.github.io"
+name                     : "Christopher Brown"
+description              : "Psychoacoustic Lab - University of Pittsburgh"
+url                      : "https://psylab16.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "psylab16/psylab16.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -77,11 +77,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kutay B. Sezginel"
-  avatar           : "https://avatars1.githubusercontent.com/u/14298193?v=4&s=460"
-  bio              : "PhD Candidate, Chemical Engineering, University of Pittsburgh."
+  name             : "Christopher Brown"
+  avatar           : "http://www.shrs.pitt.edu/sites/default/files/person-images/0026_01.jpg"
+  bio              : "PhD, Assistant Professor, School of Health and Rehabilitation Sciences, University of Pittsburgh."
   location         : "Pittsburgh, PA"
-  email            : "kutaybs@gmail.com"
+  email            : "cbrown1@pitt.edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -89,7 +89,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "kbsezginel"
+  github           : "psylab16"
   gitlab           :
   google_plus      :
   keybase          :
@@ -97,7 +97,7 @@ author:
   lastfm           :
   linkedin         :
   pinterest        :
-  soundcloud       : "kbs_music"
+  soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
