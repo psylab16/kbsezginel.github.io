@@ -6,5 +6,7 @@ main:
     url: /people/
   - title: "Listening Room"
     url: /listening-room/
+  - title: "Contact"
+    url: /contact/
   - title: "CV"
     url: "http://www.shrs.pitt.edu/sites/default/files/Brown_CV.pdf"
