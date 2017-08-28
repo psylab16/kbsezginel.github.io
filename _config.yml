@@ -14,7 +14,7 @@ description              : "Psychoacoustic Lab - University of Pittsburgh"
 url                      : "https://psylab16.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "psylab16/psylab16.github.io"
-teaser                   : "/assets/img/teaser.svg"
+teaser                   : "/assets/images/Listening_Room.jpg"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -83,7 +83,7 @@ author:
   location         : "Pittsburgh, PA"
   email            : "cbrown1@pitt.edu"
   uri              :
-  bitbucket        :
+  bitbucket        : "cbrown1"
   codepen          :
   dribbble         :
   flickr           :
