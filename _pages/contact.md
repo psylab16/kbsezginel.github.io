@@ -5,13 +5,12 @@ permalink: /contact/
 date:   2017-08-11
 categories: pages
 ---
-Department of Communication Science and Disorders \
-University of Pittsburgh \
-4033 Forbes Tower \
-3600 Forbes Ave \
-Pittsburgh, PA 15260 USA \
-Phone: 412-383-6546 \
-Email: cbrown1@pitt.edu \
+University of Pittsburgh
+Department of Communication Science and Disorders
+3600 Forbes Ave
+Pittsburgh, PA 15260 USA
+Phone: 412-383-6546
+Email: cbrown1@pitt.edu
 
 ### Map
 
