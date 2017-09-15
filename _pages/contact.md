@@ -5,12 +5,12 @@ permalink: /contact/
 date:   2017-08-11
 categories: pages
 ---
-University of Pittsburgh
-Department of Communication Science and Disorders
-3600 Forbes Ave
-Pittsburgh, PA 15260 USA
-Phone: 412-383-6546
-Email: cbrown1@pitt.edu
+Psychoacoustic Lab - University of Pittsburgh<br />
+Department of Communication Science and Disorders<br />
+3600 Forbes Ave<br />
+Pittsburgh, PA 15260 USA<br />
+Phone: 412-383-6546<br />
+Email: cbrown1@pitt.edu<br />
 
 ### Map
 
