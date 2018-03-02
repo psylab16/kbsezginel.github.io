@@ -2,7 +2,7 @@
 layout: single
 title:  "People"
 permalink: /people/
-date:   2017-08-11
+date:   2018-03-02
 categories: pages
 feature_row:
   - image_path: /assets/images/christopher-brown.png
@@ -20,17 +20,20 @@ feature_row2:
     url: "yuxiang-wang"
     btn_label: "About"
     btn_class: "btn--primary"
-  - image_path: /assets/images/profile_placeholder.png
+  - image_path: /assets/images/Lauren_Eckhart.jpg
     alt: "Lauren Eckhart"
     title: "Lauren Eckhart"
-    excerpt: "..."
+    excerpt: "PhD student"
+    url: "lauren-eckhart"
+    btn_label: "About"
+    btn_class: "btn--primary"
   - image_path: /assets/images/kutay-sezginel.png
     alt: "Kutay Sezginel"
     title: "Kutay Sezginel"
     url: "https://kbsezginel.github.io/"
     btn_label: "About"
     btn_class: "btn--primary"
-    excerpt: "..."
+    excerpt: "PhD student"
 ---
 
 {% include feature_row type="left" %}
