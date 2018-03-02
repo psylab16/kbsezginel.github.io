@@ -23,7 +23,7 @@ feature_row2:
   - image_path: /assets/images/Lauren_Eckhart.jpg
     alt: "Lauren Eckhart"
     title: "Lauren Eckhart"
-    excerpt: "PhD student"
+    excerpt: "AuD student"
     url: "lauren-eckhart"
     btn_label: "About"
     btn_class: "btn--primary"
